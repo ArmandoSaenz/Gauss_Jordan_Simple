@@ -1,0 +1,4 @@
+c:\users\armando\documents\visual studio 2010\Projects\Gauss\Gauss\bin\Debug\Gauss.exe
+c:\users\armando\documents\visual studio 2010\Projects\Gauss\Gauss\bin\Debug\Gauss.pdb
+c:\users\armando\documents\visual studio 2010\Projects\Gauss\Gauss\obj\x86\Debug\Gauss.exe
+c:\users\armando\documents\visual studio 2010\Projects\Gauss\Gauss\obj\x86\Debug\Gauss.pdb
